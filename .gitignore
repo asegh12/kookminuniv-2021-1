@@ -1,24 +1,28 @@
 ## big tech ##
-bigtech/*.pptx
-bigtech/*.docx
-bigtech/*.zip
-bigtech/*.txt
+bigtech/**/*.txt
 
 ## network ##
-network/*.org
-network/*.pdf
-network/*.jpg
-network/*.c
-network/*.in
-network/*.sh
+network/**/*.org
+network/**/*.jpg
+network/**/*.c
+network/**/*.in
+network/**/*.sh
+network/**/*.txt
 network/hw2/down_temp_a
 network/hw2/down_temp_b
 network/hw2/down_temp_biga
 
 ## db ##
-db/*.docx
 
 ## graphics ##
 
+## os ##
+
 ## etc ##
 .DS_Store
+*.pdf
+*.docx
+*.pptx
+*.zip
+
+

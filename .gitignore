@@ -1,17 +1,22 @@
 ## big tech ##
-*.pptx
-*.docx
-*.txt
+bigtech/*.pptx
+bigtech/*.docx
+bigtech/*.zip
+bigtech/*.txt
 
 ## network ##
-*.org
-*.pdf
-*.jpg
-*.c
-*.in
-*.sh
+network/*.org
+network/*.pdf
+network/*.jpg
+network/*.c
+network/*.in
+network/*.sh
+network/hw2/down_temp_a
+network/hw2/down_temp_b
+network/hw2/down_temp_biga
 
 ## db ##
+db/*.docx
 
 ## graphics ##
 

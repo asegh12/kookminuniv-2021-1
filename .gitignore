@@ -1,0 +1,19 @@
+## big tech ##
+*.pptx
+*.docx
+*.txt
+
+## network ##
+*.org
+*.pdf
+*.jpg
+*.c
+*.in
+*.sh
+
+## db ##
+
+## graphics ##
+
+## etc ##
+.DS_Store
